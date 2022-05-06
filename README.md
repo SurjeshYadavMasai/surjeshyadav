@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **surjeshom@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fact About me **I am Passionate about New Technology.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,8 +44,8 @@
 
 <p align="left">
   <a href="">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=swapnil1296&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=swapnil1296&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=surjeshyadavmasai&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=surjeshyadavmasai&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
 <p align="center">
